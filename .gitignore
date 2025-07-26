@@ -1,0 +1,20 @@
+# Ignore virtual environment
+env/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Ignore model files
+*.pkl
+
+# Ignore log files
+*.log
+
+# VSCode settings (optional)
+.vscode/
+
+# System files (optional)
+Thumbs.db
+.DS_Store
