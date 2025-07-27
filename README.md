@@ -41,6 +41,8 @@ To assist garment industry managers in making **data-driven decisions** by predi
 ##  UI Preview
 
 ![Prediction Screen](./static/images/image.png)
+(./static/images/image2.png)
+(./static/images/image3.png)
 
 ---
 
@@ -48,5 +50,5 @@ To assist garment industry managers in making **data-driven decisions** by predi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/garment-productivity-predictor.git
+   git clone https://github.com/letgotanishka/Employee-Performance-Prediction.git
    cd garment-productivity-predictor
