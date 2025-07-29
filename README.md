@@ -40,9 +40,9 @@ To assist garment industry managers in making **data-driven decisions** by predi
 
 ##  UI Preview
 
-![Prediction Screen](./static/images/image.png)
-(./static/images/image2.png)
-(./static/images/image3.png)
+![Home Screen](./static/images/image.png)
+![Prediction Screen](./static/images/image2.png)
+![Submit Screen](./static/images/image3.png)
 
 ---
 
